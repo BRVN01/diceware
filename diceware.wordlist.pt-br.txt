@@ -22,7 +22,6 @@ ermo
 suma
 mote
 idem
-vovo
 tolo
 alem
 sina
@@ -39,7 +38,6 @@ ruim
 rude
 cota
 coxo
-mais
 para
 soar
 amar
@@ -124,7 +122,6 @@ nome
 pode
 fiel
 nude
-pais
 gama
 tipo
 vibe
@@ -197,7 +194,6 @@ raro
 dois
 quis
 cume
-bobo
 quem
 fome
 gato
@@ -216,7 +212,6 @@ aqui
 apta
 flor
 leve
-esta
 meça
 bens
 hora
@@ -267,7 +262,6 @@ rede
 liso
 paço
 tido
-baia
 limo
 cimo
 foro
@@ -282,12 +276,10 @@ xara
 bela
 fiar
 tres
-maça
 gado
 dela
 anel
 cais
-coco
 ismo
 ateu
 pipa
@@ -301,7 +293,6 @@ ogro
 voar
 duma
 bebe
-polo
 dose
 meia
 eter
@@ -398,13 +389,11 @@ sope
 idos
 faço
 ouro
-veem
 unir
 nene
 poça
 coco
 atem
-mana
 isto
 digo
 osso
@@ -444,7 +433,6 @@ Jose
 mega
 urbe
 acre
-diva
 roto
 mudo
 lira
@@ -498,12 +486,10 @@ toga
 nulo
 bone
 içar
-pele
 sega
 caça
 gaze
 angu
-paga
 adro
 musa
 hall
@@ -525,7 +511,6 @@ cruz
 pede
 maos
 gera
-sois
 vaca
 leso
 frei
@@ -609,7 +594,6 @@ dias
 fada
 pato
 baba
-pode
 dons
 lama
 fino
@@ -656,7 +640,6 @@ toca
 gris
 bode
 lobo
-gala
 zero
 loja
 urze
@@ -702,7 +685,6 @@ pico
 tour
 gaja
 book
-amem
 ergo
 lava
 poda
@@ -778,7 +760,6 @@ gare
 caco
 bule
 furo
-teve
 juri
 pisa
 tava
@@ -876,7 +857,6 @@ deck
 noda
 roer
 asar
-maio
 gari
 bege
 cora
@@ -908,7 +888,6 @@ obus
 avel
 maio
 rose
-pega
 taça
 sita
 mula
@@ -958,7 +937,6 @@ bica
 palo
 ruar
 gogo
-baba
 adir
 avos
 kilo
@@ -1208,7 +1186,6 @@ possa
 tecer
 falta
 ameno
-sabia
 noçao
 ranço
 cabal
@@ -1308,7 +1285,6 @@ tanto
 serie
 probo
 apoio
-doido
 raiva
 pouco
 entre
@@ -1364,7 +1340,6 @@ livro
 setor
 meses
 liame
-manha
 senda
 pecha
 beata
@@ -1703,7 +1678,6 @@ axila
 tarde
 escol
 venha
-manga
 chefe
 unica
 macro
@@ -2387,7 +2361,6 @@ poente
 amavel
 lesado
 rapina
-previa
 matuto
 honrar
 humano
